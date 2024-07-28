@@ -1,1 +1,0 @@
-D:\02 - Projetos GitHub\C#\Mobile\AppStarbucks\AppStarbucks.csproj;x64
