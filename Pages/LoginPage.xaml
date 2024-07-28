@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppStarbucks.Pages.LoginPage"
+             Shell.NavBarIsVisible="False"
+             Title="LoginPage">
+    <Grid BackgroundColor="#DBDBDB">
+        <Image Source="bg_home.jpg"
+               Aspect="AspectFill"/>
+        <VerticalStackLayout Margin="20,100,20,0" Spacing="10">
+            <Label Text="Starbucks"
+                   TextColor="#1D4D4F"
+                   TextTransform="Uppercase"
+                   FontSize="30"
+                   FontAttributes="Bold"
+                   Margin="0,10"/>
+            <Label Text="Bem vindo de volta!"
+                   FontSize="30"
+                   FontAttributes="Bold"/>
+            <Label Text="Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor"
+                   TextColor="#4D5661"
+                   Margin="0,0,0,30"/>
+
+
+            <Border StrokeShape="RoundRectangle 5">
+                <Entry Placeholder="Email"
+                       PlaceholderColor="#B4BBCB"
+                       Keyboard="Email"/>
+            </Border>
+            <Border>
+                <Entry Placeholder="Senha"
+                       PlaceholderColor="#B4BBCB"
+                       IsPassword="True"/>
+            </Border>
+
+            <Label Text="Esqueceu sua senha?"
+                   TextColor="#4D5661"
+                   HorizontalOptions="End"
+                   Margin="0,30"/>
+
+            <Button Text="Logar"
+                    BackgroundColor="#4AA366"
+                    CornerRadius="4"
+                    Command="{Binding LoginCommand}"/>
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>

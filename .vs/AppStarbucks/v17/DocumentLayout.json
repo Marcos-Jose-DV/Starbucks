@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\02 - Projetos GitHub\\C#\\Mobile\\AppStarbucks\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A421AB32-9AB3-4DC7-9566-567577D911B0}|AppStarbucks.csproj|d:\\02 - projetos github\\c#\\mobile\\appstarbucks\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A421AB32-9AB3-4DC7-9566-567577D911B0}|AppStarbucks.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A421AB32-9AB3-4DC7-9566-567577D911B0}|AppStarbucks.csproj|d:\\02 - projetos github\\c#\\mobile\\appstarbucks\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A421AB32-9AB3-4DC7-9566-567577D911B0}|AppStarbucks.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A421AB32-9AB3-4DC7-9566-567577D911B0}|AppStarbucks.csproj|d:\\02 - projetos github\\c#\\mobile\\appstarbucks\\appstarbucks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A421AB32-9AB3-4DC7-9566-567577D911B0}|AppStarbucks.csproj|solutionrelative:appstarbucks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,50 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "D:\\02 - Projetos GitHub\\C#\\Mobile\\AppStarbucks\\MainPage.xaml",
-              "RelativeDocumentMoniker": "MainPage.xaml",
-              "ToolTip": "D:\\02 - Projetos GitHub\\C#\\Mobile\\AppStarbucks\\MainPage.xaml",
-              "RelativeToolTip": "MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-28T02:49:32.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "D:\\02 - Projetos GitHub\\C#\\Mobile\\AppStarbucks\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "MainPage.xaml.cs",
-              "ToolTip": "D:\\02 - Projetos GitHub\\C#\\Mobile\\AppStarbucks\\MainPage.xaml.cs",
-              "RelativeToolTip": "MainPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T02:48:18.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppStarbucks",
-              "DocumentMoniker": "D:\\02 - Projetos GitHub\\C#\\Mobile\\AppStarbucks\\AppStarbucks.csproj",
-              "RelativeDocumentMoniker": "AppStarbucks.csproj",
-              "ToolTip": "D:\\02 - Projetos GitHub\\C#\\Mobile\\AppStarbucks\\AppStarbucks.csproj",
-              "RelativeToolTip": "AppStarbucks.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-27T23:32:01.478Z",
-              "EditorCaption": ""
             }
           ]
         }

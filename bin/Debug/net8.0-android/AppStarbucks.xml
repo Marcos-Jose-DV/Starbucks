@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AppStarbucks</name>
+    </assembly>
+    <members>
+        <member name="T:AppStarbucks.ViewModels.LoginViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="F:AppStarbucks.ViewModels.LoginViewModel.loginCommand">
+            <summary>The backing field for <see cref="P:AppStarbucks.ViewModels.LoginViewModel.LoginCommand"/>.</summary>
+        </member>
+        <member name="P:AppStarbucks.ViewModels.LoginViewModel.LoginCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AppStarbucks.ViewModels.LoginViewModel.Login"/>.</summary>
+        </member>
+    </members>
+</doc>

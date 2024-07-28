@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppStarbucks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ea305b85ba4bc7ab33d9287eec82218dcd60986d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+b8a83f1e44cdeee6c24280bb90fc56e8956cdc33")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppStarbucks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppStarbucks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

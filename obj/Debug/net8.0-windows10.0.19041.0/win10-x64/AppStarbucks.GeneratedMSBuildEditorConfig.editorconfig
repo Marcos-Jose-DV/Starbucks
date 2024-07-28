@@ -30,6 +30,36 @@ build_metadata.AdditionalFiles.ManifestResourceName = AppStarbucks.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
+[D:/02 - Projetos GitHub/C\#/Mobile/AppStarbucks/Pages/CreditCardPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppStarbucks.Pages.CreditCardPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\CreditCardPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\CreditCardPage.xaml
+
+[D:/02 - Projetos GitHub/C\#/Mobile/AppStarbucks/Pages/DeliveryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppStarbucks.Pages.DeliveryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\DeliveryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\DeliveryPage.xaml
+
+[D:/02 - Projetos GitHub/C\#/Mobile/AppStarbucks/Pages/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppStarbucks.Pages.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\HomePage.xaml
+
+[D:/02 - Projetos GitHub/C\#/Mobile/AppStarbucks/Pages/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppStarbucks.Pages.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\LoginPage.xaml
+
+[D:/02 - Projetos GitHub/C\#/Mobile/AppStarbucks/Pages/ShopPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppStarbucks.Pages.ShopPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ShopPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ShopPage.xaml
+
 [D:/02 - Projetos GitHub/C\#/Mobile/AppStarbucks/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppStarbucks.Resources.Styles.Colors.xaml

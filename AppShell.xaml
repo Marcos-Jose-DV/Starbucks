@@ -4,12 +4,41 @@
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:AppStarbucks"
+    xmlns:pages="clr-namespace:AppStarbucks.Pages"
     Shell.FlyoutBehavior="Disabled"
+    Shell.TabBarForegroundColor="#4AA366"
+    Shell.TabBarUnselectedColor="#6F8094"
+    Shell.NavBarIsVisible="False"
     Title="AppStarbucks">
 
     <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+            Title="Home"
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Route="MainPage" />
+
+    <ShellContent
+             Title="Login"
+             ContentTemplate="{DataTemplate pages:LoginPage}"
+             Route="LoginPage" />
+
+    <TabBar>
+        <ShellContent
+                 Icon="u_star.png"
+                 ContentTemplate="{DataTemplate pages:HomePage}"
+                 Route="HomePage" />
+        <ShellContent
+               Icon="shop_icon.png"
+               ContentTemplate="{DataTemplate pages:ShopPage}"
+               Route="Loja" />
+        <ShellContent
+              Icon="u_credit_card.png"
+              ContentTemplate="{DataTemplate pages:CreditCardPage}"
+              Route="ShopPage" />
+        <ShellContent
+              Icon="delivery.png"
+              ContentTemplate="{DataTemplate pages:DeliveryPage}"
+              Route="DeliveryPage" />   
+
+    </TabBar>
 
 </Shell>
