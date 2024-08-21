@@ -6,38 +6,51 @@
              Title="HomePage">
     <VerticalStackLayout>
         <Border Padding="20"
-                Stroke="Transparent"
-                StrokeThickness="0">
-                
+                StrokeThickness="0"
+                BackgroundColor="#fff">
+
             <Border.Shadow>
                 <Shadow Brush="#8F9BB3"
-                Offset="8,8"
-                Opacity="0.2"
-                Radius="20" />
+                        Offset="7,7"
+                        Opacity=".3"
+                        Radius="20" />
             </Border.Shadow>
             <HorizontalStackLayout>
                 <Label Text="Starbucks"
-               TextColor="#1D4D4F"
+                       TextColor="#1D4D4F"
                        FontSize="20"
                        FontAttributes="Bold"/>
             </HorizontalStackLayout>
         </Border>
 
         <Border StrokeShape="RoundRectangle 20"
+                StrokeThickness="0"
                 BackgroundColor="#4AA366"
+                WidthRequest="352"
                 HeightRequest="142"
                 Margin="10,30">
-            <Grid ColumnDefinitions="*,*"
-                  Margin="20,0">
-                <Image Grid.Column="0"
-                        Source="logo_starbucks.png"
+            <Border.Shadow>
+                <Shadow Brush="#1A3B34"
+              Offset="0,10"
+              Opacity=".3"
+              Radius="10" />
+            </Border.Shadow>
+            <Grid ColumnDefinitions="*,*">
+                <Image Grid.ColumnSpan="2"
+                       HorizontalOptions="StartAndExpand"
+                       Source="lg_starbucks.png"
                        Aspect="AspectFill"/>
-                <Label Text="Meu dinheiro total"
+
+                <VerticalStackLayout Grid.ColumnSpan="2" 
+                                    Margin="20"
+                                     VerticalOptions="EndAndExpand">
+                    <Label Text="Meu dinheiro total"
                        TextColor="White"
                        FontSize="16"/>
-                <Label Text="55,35 R$"
+                    <Label Text="55,35 R$"
                        FontSize="30"
                        TextColor="White"/>
+                </VerticalStackLayout>
             </Grid>
         </Border>
 
